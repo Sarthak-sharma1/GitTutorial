@@ -11,7 +11,7 @@ public class Digits {
 		System.out.println("No of Digits.." +s);
 
          System.out.println("hii Java... user");
-		 System.out.println("java");
+		 
 		
 	}
 
